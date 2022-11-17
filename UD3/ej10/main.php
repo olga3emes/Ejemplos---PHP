@@ -29,7 +29,7 @@ if (!isset($_SESSION['usuario'])) {
             <p class="ml-5"> Volver
                     al <a href="main.php">Inicio <i class="bi bi-house"></i></a></p>
             <h2>Listado de productos<i class="bi bi-cart2"></i></h2>
-            <ul class="align-content-center m-4">
+            <ul class="m-4">
                 <li>Producto 1</li>
                 <li>Producto 2</li>
                 <li>Producto 3</li>
