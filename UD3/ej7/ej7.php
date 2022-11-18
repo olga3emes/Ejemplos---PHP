@@ -3,7 +3,6 @@
 exit();
 ?> 
 <?php
-//TODO: gmdate sustituye en uso a gmstrftime deprecated v8.1. 
 // tres horas
 $now = time();
 echo date("d m Y H:i:s", $now) . "\n";

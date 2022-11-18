@@ -27,7 +27,7 @@ if (!isset($_SESSION['usuario'])) {
             </h1>
             <p class="ml-5">Pulse <a href="logout.php">aquí para salir </a> </p>
             <p class="ml-5"> Volver
-                    al <a href="main.php">Inicio <i class="bi bi-house"></i></a></p>
+                al <a href="main.php">Inicio <i class="bi bi-house"></i></a></p>
             <h2>Listado de productos<i class="bi bi-cart2"></i></h2>
             <ul class="m-4">
                 <li>Producto 1</li>
